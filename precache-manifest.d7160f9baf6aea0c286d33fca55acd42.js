@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74b1787bad8a5374f4aa3a8c6dfe6091",
+    "revision": "2921f1da98bd585877fb00533be27186",
     "url": "/fusioncharts-react-app/index.html"
   },
   {
-    "revision": "8bbad4ba15dcf1b6286b",
+    "revision": "e4551462669af6221bd4",
     "url": "/fusioncharts-react-app/static/css/main.77590b34.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fusioncharts-react-app/static/js/2.14536272.chunk.js.LICENSE"
   },
   {
-    "revision": "8bbad4ba15dcf1b6286b",
-    "url": "/fusioncharts-react-app/static/js/main.ce381e5b.chunk.js"
+    "revision": "e4551462669af6221bd4",
+    "url": "/fusioncharts-react-app/static/js/main.e4427bff.chunk.js"
   },
   {
     "revision": "0b3014d5d69c7e54e285",

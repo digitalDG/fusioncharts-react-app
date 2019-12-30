@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fusioncharts-react-app/static/css/main.77590b34.chunk.css",
-    "main.js": "/fusioncharts-react-app/static/js/main.ce381e5b.chunk.js",
-    "main.js.map": "/fusioncharts-react-app/static/js/main.ce381e5b.chunk.js.map",
+    "main.js": "/fusioncharts-react-app/static/js/main.e4427bff.chunk.js",
+    "main.js.map": "/fusioncharts-react-app/static/js/main.e4427bff.chunk.js.map",
     "runtime-main.js": "/fusioncharts-react-app/static/js/runtime-main.4763fab4.js",
     "runtime-main.js.map": "/fusioncharts-react-app/static/js/runtime-main.4763fab4.js.map",
     "static/js/2.14536272.chunk.js": "/fusioncharts-react-app/static/js/2.14536272.chunk.js",
     "static/js/2.14536272.chunk.js.map": "/fusioncharts-react-app/static/js/2.14536272.chunk.js.map",
     "index.html": "/fusioncharts-react-app/index.html",
-    "precache-manifest.298be2c713c974f53e13f3a02c577543.js": "/fusioncharts-react-app/precache-manifest.298be2c713c974f53e13f3a02c577543.js",
+    "precache-manifest.d7160f9baf6aea0c286d33fca55acd42.js": "/fusioncharts-react-app/precache-manifest.d7160f9baf6aea0c286d33fca55acd42.js",
     "service-worker.js": "/fusioncharts-react-app/service-worker.js",
     "static/css/main.77590b34.chunk.css.map": "/fusioncharts-react-app/static/css/main.77590b34.chunk.css.map",
     "static/js/2.14536272.chunk.js.LICENSE": "/fusioncharts-react-app/static/js/2.14536272.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4763fab4.js",
     "static/js/2.14536272.chunk.js",
     "static/css/main.77590b34.chunk.css",
-    "static/js/main.ce381e5b.chunk.js"
+    "static/js/main.e4427bff.chunk.js"
   ]
 }
